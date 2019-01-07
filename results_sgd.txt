@@ -1,0 +1,351 @@
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+1 hidden layer
+1 neuron
+Learning rate: 0.01
+Momentum: 0.0
+40 epochs
+
+Mean results of 10 tests:
+Train loss: 0.9198657317328329 | Validation loss: 0.9973192087393634 | Test loss: 1.0128637948974235
+Train accuracy: 0.6165289256198347 | Train precision: 0.6165289256198347 | Train recall: 0.6165289256198347
+Test accuracy: 0.5688524590163935 | Test precision: 0.5688524590163935 | Test recall: 0.5688524590163935
+Accuracy: 0.606930693069307 | Precision: 0.606930693069307 | Recall: 0.606930693069307
+Confusion matrix:
+[[154.6   7.9   0.6   0.9   0. ]
+ [ 27.8  21.    2.6   3.6   0. ]
+ [  6.4  22.    2.9   4.7   0. ]
+ [  3.   22.6   4.    5.4   0. ]
+ [  1.3   8.6   1.2   1.9   0. ]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+1 hidden layer
+2 neuron
+Learning rate: 0.01
+Momentum: 0.0
+40 epochs
+
+Mean results of 10 tests:
+Train loss: 0.8858201154522174 | Validation loss: 1.0022732398643783 | Test loss: 0.9603106085088898
+Train accuracy: 0.6235537190082645 | Train precision: 0.6235537190082645 | Train recall: 0.6235537190082645
+Test accuracy: 0.5967213114754097 | Test precision: 0.5967213114754097 | Test recall: 0.5967213114754097
+Accuracy: 0.6181518151815182 | Precision: 0.6181518151815182 | Recall: 0.6181518151815182
+Confusion matrix:
+[[152.8   7.5   2.2   1.5   0. ]
+ [ 27.9  13.1   7.6   6.4   0. ]
+ [  6.8  10.2  10.5   8.5   0. ]
+ [  2.3   9.8  12.   10.9   0. ]
+ [  1.    3.7   3.9   4.4   0. ]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+1 hidden layer
+4 neuron
+Learning rate: 0.01
+Momentum: 0.0
+40 epochs
+
+Mean results of 10 tests:
+Train loss: 0.851455447640405 | Validation loss: 0.9544113652362508 | Test loss: 0.9458999179425787
+Train accuracy: 0.6450413223140494 | Train precision: 0.6450413223140494 | Train recall: 0.6450413223140494
+Test accuracy: 0.6196721311475409 | Test precision: 0.6196721311475409 | Test recall: 0.6196721311475409
+Accuracy: 0.63993399339934 | Precision: 0.63993399339934 | Recall: 0.63993399339934
+Confusion matrix:
+[[154.1   6.3   1.8   1.8   0. ]
+ [ 26.7  12.5   5.   10.8   0. ]
+ [  7.3   6.6   7.9  14.2   0. ]
+ [  2.4   5.8   7.4  19.4   0. ]
+ [  0.7   2.4   2.7   7.2   0. ]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+1 hidden layer
+8 neuron
+Learning rate: 0.01
+Momentum: 0.0
+15 epochs
+
+Mean results of 10 tests:
+Train loss: 0.8994817336114037 | Validation loss: 1.0073706911154547 | Test loss: 0.980586201496056
+Train accuracy: 0.6194214876033058 | Train precision: 0.6194214876033058 | Train recall: 0.6194214876033058
+Test accuracy: 0.6081967213114753 | Test precision: 0.6081967213114753 | Test recall: 0.6081967213114753
+Accuracy: 0.6171617161716172 | Precision: 0.6171617161716172 | Recall: 0.6171617161716172
+Confusion matrix:
+[[155.8   6.1   1.4   0.7   0. ]
+ [ 31.9  12.9   4.4   5.8   0. ]
+ [  9.8  11.4   7.7   7.1   0. ]
+ [  4.5  11.6   8.3  10.6   0. ]
+ [  1.3   3.9   3.4   4.4   0. ]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+1 hidden layer
+1 neuron
+Learning rate: 0.001
+Momentum: 0.0
+110 epochs
+
+Mean results of 10 tests:
+Train loss: 1.1642864318863717 | Validation loss: 1.2047030853677767 | Test loss: 1.1857468962669373
+Train accuracy: 0.5388429752066115 | Train precision: 0.5388429752066115 | Train recall: 0.5388429752066115
+Test accuracy: 0.5508196721311475 | Test precision: 0.5508196721311475 | Test recall: 0.5508196721311475
+Accuracy: 0.5412541254125413 | Precision: 0.5412541254125413 | Recall: 0.5412541254125413
+Confusion matrix:
+[[164.   0.   0.   0.   0.]
+ [ 55.   0.   0.   0.   0.]
+ [ 36.   0.   0.   0.   0.]
+ [ 35.   0.   0.   0.   0.]
+ [ 13.   0.   0.   0.   0.]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+1 hidden layer
+2 neuron
+Learning rate: 0.001
+Momentum: 0.0
+250 epochs
+
+Mean results of 10 tests:
+Train loss: 0.9087988817591433 | Validation loss: 0.9935516053012439 | Test loss: 0.9906363397592404
+Train accuracy: 0.6239669421487604 | Train precision: 0.6239669421487604 | Train recall: 0.6239669421487604
+Test accuracy: 0.5819672131147541 | Test precision: 0.5819672131147541 | Test recall: 0.5819672131147541
+Accuracy: 0.6155115511551156 | Precision: 0.6155115511551156 | Recall: 0.6155115511551156
+Confusion matrix:
+[[155.9   5.5   0.7   1.9   0. ]
+ [ 30.5  14.6   1.9   8.    0. ]
+ [  8.   14.3   3.1  10.6   0. ]
+ [  3.9  15.2   3.   12.9   0. ]
+ [  1.4   5.6   0.8   5.2   0. ]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+1 hidden layer
+4 neuron
+Learning rate: 0.001
+Momentum: 0.0
+150 epochs
+
+Mean results of 10 tests:
+Train loss: 0.9223802366482161 | Validation loss: 0.9975210881658964 | Test loss: 1.0182032912481025
+Train accuracy: 0.6123966942148761 | Train precision: 0.6123966942148761 | Train recall: 0.6123966942148761
+Test accuracy: 0.5967213114754097 | Test precision: 0.5967213114754097 | Test recall: 0.5967213114754097
+Accuracy: 0.6092409240924092 | Precision: 0.6092409240924092 | Recall: 0.6092409240924092
+Confusion matrix:
+[[158.5   4.    0.7   0.8   0. ]
+ [ 34.7  12.    2.5   5.8   0. ]
+ [ 11.7  12.4   3.7   8.2   0. ]
+ [  6.4  14.3   3.9  10.4   0. ]
+ [  1.9   6.1   1.2   3.8   0. ]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+1 hidden layer
+8 neuron
+Learning rate: 0.001
+Momentum: 0.0
+300 epochs
+
+Mean results of 10 tests:
+Train loss: 0.8305804677799807 | Validation loss: 0.9104317768229817 | Test loss: 0.978266837786822
+Train accuracy: 0.6541322314049587 | Train precision: 0.6541322314049587 | Train recall: 0.6541322314049587
+Test accuracy: 0.5819672131147542 | Test precision: 0.5819672131147542 | Test recall: 0.5819672131147542
+Accuracy: 0.6396039603960395 | Precision: 0.6396039603960395 | Recall: 0.6396039603960395
+Confusion matrix:
+[[153.    7.4   2.9   0.7   0. ]
+ [ 26.9  14.4   5.7   8.    0. ]
+ [  5.9   8.   12.7   9.4   0. ]
+ [  2.1   8.6  10.6  13.7   0. ]
+ [  0.9   2.7   3.2   6.2   0. ]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+2 hidden layer
+1 neuron
+Learning rate: 0.01
+Momentum: 0.0
+50 epochs
+
+Mean results of 10 tests:
+Train loss: 1.155036411137161 | Validation loss: 1.0781514287603142 | Test loss: 1.1881685887692401
+Train accuracy: 0.5475206611570248 | Train precision: 0.5475206611570248 | Train recall: 0.5475206611570248
+Test accuracy: 0.5360655737704918 | Test precision: 0.5360655737704918 | Test recall: 0.5360655737704918
+Accuracy: 0.5452145214521452 | Precision: 0.5452145214521452 | Recall: 0.5452145214521452
+Confusion matrix:
+[[163.6   0.4   0.    0.    0. ]
+ [ 53.4   1.6   0.    0.    0. ]
+ [ 33.5   2.5   0.    0.    0. ]
+ [ 32.2   2.8   0.    0.    0. ]
+ [ 12.    1.    0.    0.    0. ]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+2 hidden layer
+2 neuron
+Learning rate: 0.01
+Momentum: 0.0
+60 epochs
+
+Mean results of 10 tests:
+Train loss: 0.9225409534465463 | Validation loss: 0.9827433852820981 | Test loss: 1.0443893970891103
+Train accuracy: 0.6268595041322313 | Train precision: 0.6268595041322313 | Train recall: 0.6268595041322313
+Test accuracy: 0.5573770491803279 | Test precision: 0.5573770491803279 | Test recall: 0.5573770491803279
+Accuracy: 0.6128712871287129 | Precision: 0.6128712871287129 | Recall: 0.6128712871287129
+Confusion matrix:
+[[155.4   5.6   1.4   1.6   0. ]
+ [ 30.5  13.9   4.    6.6   0. ]
+ [  7.9  13.5   5.1   9.5   0. ]
+ [  3.4  14.6   5.7  11.3   0. ]
+ [  1.2   5.1   2.2   4.5   0. ]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+2 hidden layer
+4 neuron
+Learning rate: 0.01
+Momentum: 0.0
+60 epochs
+
+Mean results of 10 tests:
+Train loss: 0.8686461140956595 | Validation loss: 0.9567891170783918 | Test loss: 1.0065851895413438
+Train accuracy: 0.6301652892561984 | Train precision: 0.6301652892561984 | Train recall: 0.6301652892561984
+Test accuracy: 0.5950819672131147 | Test precision: 0.5950819672131147 | Test recall: 0.5950819672131147
+Accuracy: 0.6231023102310231 | Precision: 0.6231023102310231 | Recall: 0.6231023102310231
+Confusion matrix:
+[[153.    8.1   1.    1.9   0. ]
+ [ 26.1  14.7   3.2  11.    0. ]
+ [  4.7  12.9   5.1  13.3   0. ]
+ [  2.2  10.4   6.4  16.    0. ]
+ [  0.8   3.4   2.    6.8   0. ]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+2 hidden layer
+8 neuron
+Learning rate: 0.01
+Momentum: 0.0
+60 epochs
+
+Mean results of 10 tests:
+Train loss: 0.8432891536928675 | Validation loss: 0.9507703232978072 | Test loss: 0.9902770702956152
+Train accuracy: 0.6438016528925621 | Train precision: 0.6438016528925621 | Train recall: 0.6438016528925621
+Test accuracy: 0.5885245901639344 | Test precision: 0.5885245901639344 | Test recall: 0.5885245901639344
+Accuracy: 0.6326732673267326 | Precision: 0.6326732673267326 | Recall: 0.6326732673267326
+Confusion matrix:
+[[154.4   7.2   0.8   1.6   0. ]
+ [ 27.4  14.1   4.2   9.3   0. ]
+ [  5.8  10.2   7.1  12.9   0. ]
+ [  2.7   8.    8.2  16.1   0. ]
+ [  0.8   2.2   3.3   6.7   0. ]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+2 hidden layer
+1 neuron
+Learning rate: 0.001
+Momentum: 0.0
+800 epochs
+
+Mean results of 10 tests:
+Train loss: 0.9499637041376046 | Validation loss: 1.078367273083755 | Test loss: 0.9973518937826157
+Train accuracy: 0.5950413223140496 | Train precision: 0.5950413223140496 | Train recall: 0.5950413223140496
+Test accuracy: 0.5770491803278689 | Test precision: 0.5770491803278689 | Test recall: 0.5770491803278689
+Accuracy: 0.5914191419141914 | Precision: 0.5914191419141914 | Recall: 0.5914191419141914
+Confusion matrix:
+[[155.7   8.1   0.2   0.    0. ]
+ [ 32.1  21.6   1.3   0.    0. ]
+ [ 11.5  22.6   1.9   0.    0. ]
+ [  8.8  23.8   2.4   0.    0. ]
+ [  3.4   8.7   0.9   0.    0. ]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+2 hidden layer
+2 neuron
+Learning rate: 0.001
+Momentum: 0.0
+600 epochs
+
+Mean results of 10 tests:
+Train loss: 0.9438791468353468 | Validation loss: 0.9797878199998212 | Test loss: 0.9781500542750126
+Train accuracy: 0.6053719008264463 | Train precision: 0.6053719008264463 | Train recall: 0.6053719008264463
+Test accuracy: 0.5983606557377049 | Test precision: 0.5983606557377049 | Test recall: 0.5983606557377049
+Accuracy: 0.6039603960396038 | Precision: 0.6039603960396038 | Recall: 0.6039603960396038
+Confusion matrix:
+[[155.4   6.8   1.8   0.    0. ]
+ [ 30.4  17.5   6.4   0.7   0. ]
+ [  8.5  17.2   8.7   1.6   0. ]
+ [  4.5  19.   10.1   1.4   0. ]
+ [  1.3   7.    4.    0.7   0. ]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+2 hidden layer
+4 neuron
+Learning rate: 0.001
+Momentum: 0.0
+800 epochs
+
+Mean results of 10 tests:
+Train loss: 0.848087009457495 | Validation loss: 0.9400734071828882 | Test loss: 0.9918184470507455
+Train accuracy: 0.6396694214876033 | Train precision: 0.6396694214876033 | Train recall: 0.6396694214876033
+Test accuracy: 0.5754098360655737 | Test precision: 0.5754098360655737 | Test recall: 0.5754098360655737
+Accuracy: 0.6267326732673267 | Precision: 0.6267326732673267 | Recall: 0.6267326732673267
+Confusion matrix:
+[[152.9   7.3   3.    0.8   0. ]
+ [ 25.2  15.1  11.2   3.5   0. ]
+ [  4.7   9.8  16.3   5.2   0. ]
+ [  1.7   9.3  18.4   5.6   0. ]
+ [  1.1   2.8   6.6   2.5   0. ]]
+
++-------------------------------------------+
++-------------------------------------------+
+MLP-SGD
+Standarized
+2 hidden layer
+8 neuron
+Learning rate: 0.001
+Momentum: 0.0
+250 epochs
+
+Mean results of 10 tests:
+Train loss: 0.9420845996916605 | Validation loss: 1.0166241342772027 | Test loss: 0.9807169777325919
+Train accuracy: 0.6074380165289257 | Train precision: 0.6074380165289257 | Train recall: 0.6074380165289257
+Test accuracy: 0.5819672131147542 | Test precision: 0.5819672131147542 | Test recall: 0.5819672131147542
+Accuracy: 0.6023102310231022 | Precision: 0.6023102310231022 | Recall: 0.6023102310231022
+Confusion matrix:
+[[158.8   4.1   0.8   0.3   0. ]
+ [ 35.3  12.5   4.7   2.5   0. ]
+ [ 12.4  13.3   6.7   3.6   0. ]
+ [  7.9  13.9   8.7   4.5   0. ]
+ [  2.5   5.6   3.1   1.8   0. ]]
